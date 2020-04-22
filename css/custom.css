@@ -1,0 +1,50 @@
+.navbar-nav .nav-link {
+   
+    font-size: 20px;
+    text-transform: capitalize;
+    font-weight: 480;
+    letter-spacing: 1px;}
+
+   .navbar-nav .nav-link:hover{    color: #1655f39c;}
+.service-section{}
+h1{
+    text-transform: capitalize;
+    font-weight: 400;
+    font-size: 40px;
+}
+h6{
+    color: #1655f39c;
+    text-transform: capitalize;
+    font-size: 17px;
+    
+    font-weight: 500;
+}
+.service,{background-color: #0d14ec03;
+padding: 30px;}
+
+.service img{}
+
+p{
+       font-size: 20px;
+}
+
+h3{
+    padding-top: 20px;
+    padding-bottom: 10px;
+    font-weight: 490;
+}
+.feature-section, .partners-section{ padding: 80px 0px }
+.feature{padding:30px;}
+.partners-section a,.partners-section h6{ text-transform: uppercase; }
+.partners-section h1{
+    font-size: 60px;
+    font-weight: 350;
+   
+    }
+
+    .partners-section p {font-weight: 100; margin-top: 40px;
+    margin-bottom: 40px;}
+    
+    .partners{text-align: center;}
+    footer{text-transform: capitalize;}
+    
